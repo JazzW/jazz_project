@@ -1,0 +1,7 @@
+功能介绍：
+    该组件应用与word与excel相互转化，支持text，table与部分chart，使用.net语言编写，其中涉及到openxml的第三方插件以及微弱office插件，可通过完成配置文件（例子可看\ZZ.Document.Mapper\Service\demp.xml）实现一致性转化
+文件目录
+ZZ.Document.Mapper-完成excel与word之间映射转化的组件
+ZZ.Excel.Helper   -操做excel与word的helper
+ZZ.ILogger        -简单的log接口
+ZZ.Demo           -案例

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ.Excel", "ZZ.Excel\ZZ.Excel.csproj", "{47FAC902-7FC7-4FC8-B8E3-B646586738C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "正中珠江excel插件", "正中珠江excel插件", "{FE1D5820-C2EA-473E-80F9-10A854DC2CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ.Excel.Helper", "ZZ.Excel.Helper\ZZ.Excel.Helper.csproj", "{563F0148-0468-41E7-8C0C-ABFF06BE7948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ.Document.Mapper", "ZZ.Document.Mapper\ZZ.Document.Mapper.csproj", "{2B1337FB-22E6-49BA-8B43-049DF1388EBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ.Demo", "ZZ.Demo\ZZ.Demo.csproj", "{B4E1C0B1-FCCF-402C-B4E4-4CF6D804F421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZZ.Logger", "ZZ.Logger\ZZ.Logger.csproj", "{169AA92D-AF58-46AC-8E25-9A10414ABBDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47FAC902-7FC7-4FC8-B8E3-B646586738C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47FAC902-7FC7-4FC8-B8E3-B646586738C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47FAC902-7FC7-4FC8-B8E3-B646586738C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47FAC902-7FC7-4FC8-B8E3-B646586738C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563F0148-0468-41E7-8C0C-ABFF06BE7948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563F0148-0468-41E7-8C0C-ABFF06BE7948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563F0148-0468-41E7-8C0C-ABFF06BE7948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563F0148-0468-41E7-8C0C-ABFF06BE7948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1337FB-22E6-49BA-8B43-049DF1388EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1337FB-22E6-49BA-8B43-049DF1388EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1337FB-22E6-49BA-8B43-049DF1388EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1337FB-22E6-49BA-8B43-049DF1388EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E1C0B1-FCCF-402C-B4E4-4CF6D804F421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E1C0B1-FCCF-402C-B4E4-4CF6D804F421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E1C0B1-FCCF-402C-B4E4-4CF6D804F421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E1C0B1-FCCF-402C-B4E4-4CF6D804F421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{169AA92D-AF58-46AC-8E25-9A10414ABBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169AA92D-AF58-46AC-8E25-9A10414ABBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169AA92D-AF58-46AC-8E25-9A10414ABBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169AA92D-AF58-46AC-8E25-9A10414ABBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{47FAC902-7FC7-4FC8-B8E3-B646586738C5} = {FE1D5820-C2EA-473E-80F9-10A854DC2CB7}
+		{563F0148-0468-41E7-8C0C-ABFF06BE7948} = {FE1D5820-C2EA-473E-80F9-10A854DC2CB7}
+		{2B1337FB-22E6-49BA-8B43-049DF1388EBB} = {FE1D5820-C2EA-473E-80F9-10A854DC2CB7}
+		{B4E1C0B1-FCCF-402C-B4E4-4CF6D804F421} = {FE1D5820-C2EA-473E-80F9-10A854DC2CB7}
+		{169AA92D-AF58-46AC-8E25-9A10414ABBDA} = {FE1D5820-C2EA-473E-80F9-10A854DC2CB7}
+	EndGlobalSection
+EndGlobal

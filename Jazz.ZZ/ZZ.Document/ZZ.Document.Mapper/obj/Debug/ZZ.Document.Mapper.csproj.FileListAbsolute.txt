@@ -1,0 +1,16 @@
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\obj\Debug\ZZ.Document.Mapper.csprojResolveAssemblyReference.cache
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\obj\Debug\ZZ.Document.Mapper.csproj.ResolveComReference.cache
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\ZZ.Document.Mapper.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\ZZ.Document.Mapper.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\ZZ.Excel.Helper.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\ZZ.Excel.Helper.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\obj\Debug\ZZ.Document.Mapper.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\obj\Debug\ZZ.Document.Mapper.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\DocX.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\EPPlus.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\MathLib.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\ZZ.Logger.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Document.Mapper\bin\Debug\ZZ.Logger.pdb

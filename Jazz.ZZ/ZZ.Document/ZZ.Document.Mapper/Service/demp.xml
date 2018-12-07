@@ -1,0 +1,31 @@
+﻿<Mappers>
+  <Mapper name="task1" source="excel" target="word">
+    <Map desc="匹配开始时间">
+      <Source type="value-object" key="year_start" />
+      <Target type="text" bookmark="year_start"/>
+    </Map>
+    <Map desc="匹配结束时间">
+      <Source type="value-object" key="year_end" />
+      <Target type="text" bookmark="year_end"/>
+    </Map>
+     <Map desc="匹配备注描述">
+      <Source type="value-object" key="desc" />
+      <Target type="text" bookmark="desc"/>
+    </Map>
+     <Map type="delete" desc="删除备注描述-1">
+      <Target type="text" bookmark="removeif" if-key="isnum"/>
+    </Map>
+    <Map type="delete" desc="删除备注描述-2">
+      <Target type="text" bookmark="remove"/>
+    </Map>
+    <Map desc="匹配姓名">
+        <Source type="text" column="1" row="1" sheet="Sheet1" />
+        <Target type="text" bookmark="name"/>
+    </Map>
+
+     <Map desc="匹配数据表">
+        <Source type="table" column="1" col-length="3" start-key="王锦聪"  sheet="Sheet1"/>
+		    <Target type="table" key="0"/>
+    </Map>
+  </Mapper>
+</Mappers>

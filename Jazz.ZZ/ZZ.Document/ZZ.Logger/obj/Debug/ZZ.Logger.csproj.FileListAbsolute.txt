@@ -1,0 +1,5 @@
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Logger\bin\Debug\ZZ.Logger.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Logger\bin\Debug\ZZ.Logger.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Logger\obj\Debug\ZZ.Logger.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Logger\obj\Debug\ZZ.Logger.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Logger\obj\Debug\ZZ.Logger.csprojResolveAssemblyReference.cache

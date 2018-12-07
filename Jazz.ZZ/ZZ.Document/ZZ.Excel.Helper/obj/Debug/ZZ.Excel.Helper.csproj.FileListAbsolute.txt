@@ -1,0 +1,11 @@
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\obj\Debug\ZZ.Excel.Helper.csproj.ResolveComReference.cache
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\ZZ.Excel.Helper.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\ZZ.Excel.Helper.pdb
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\DocX.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\EPPlus.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\obj\Debug\ZZ.Excel.Helper.dll
+c:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\obj\Debug\ZZ.Excel.Helper.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\ZZ.Excel\ZZ.Excel.Helper\obj\Debug\ZZ.Excel.Helper.csprojResolveAssemblyReference.cache

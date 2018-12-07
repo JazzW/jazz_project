@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jazz.main</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>jazz.ado.frame</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.ado.frame/src</location>
+		</link>
+		<link>
+			<name>jazz.common.aop</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.common.aop/src</location>
+		</link>
+		<link>
+			<name>jazz.common.async</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.common.async/src</location>
+		</link>
+		<link>
+			<name>jazz.common.enitiy</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.common.enitiy/src</location>
+		</link>
+		<link>
+			<name>jazz.common.enum</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.common.enum/src</location>
+		</link>
+		<link>
+			<name>jazz.common.web</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.common.web/src</location>
+		</link>
+		<link>
+			<name>jazz.helper.common</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.helper.common/src</location>
+		</link>
+		<link>
+			<name>jazz.helper.database</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.helper.database/src</location>
+		</link>
+		<link>
+			<name>jazz.helper.security</name>
+			<type>2</type>
+			<location>C:/Users/wjc/Workspaces/MyEclipse 2017 CI/jazz.helper.security/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

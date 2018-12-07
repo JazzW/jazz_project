@@ -1,0 +1,4 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\bin\Debug\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\bin\Debug\Jazz.Common.Enum.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\obj\Debug\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\obj\Debug\Jazz.Common.Enum.pdb

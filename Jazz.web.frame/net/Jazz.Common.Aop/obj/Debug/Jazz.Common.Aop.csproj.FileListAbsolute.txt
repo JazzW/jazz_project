@@ -1,0 +1,4 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Aop\bin\Debug\Jazz.Common.Aop.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Aop\bin\Debug\Jazz.Common.Aop.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Aop\obj\Debug\Jazz.Common.Aop.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Aop\obj\Debug\Jazz.Common.Aop.pdb

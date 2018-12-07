@@ -1,0 +1,5 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\bin\Release\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\bin\Release\Jazz.Common.Enum.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\obj\Release\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\obj\Release\Jazz.Common.Enum.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enum\obj\Release\Jazz.Common.Enum.csprojResolveAssemblyReference.cache

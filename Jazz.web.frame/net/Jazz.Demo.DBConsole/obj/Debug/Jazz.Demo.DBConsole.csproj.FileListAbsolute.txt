@@ -1,0 +1,8 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\bin\Debug\Jazz.Demo.DBConsole.exe.config
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\bin\Debug\Jazz.Demo.DBConsole.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\bin\Debug\Jazz.Demo.DBConsole.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\bin\Debug\Jazz.Helper.DataBase.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\bin\Debug\Jazz.Helper.DataBase.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\obj\Debug\Jazz.Demo.DBConsole.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\obj\Debug\Jazz.Demo.DBConsole.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.DBConsole\obj\Debug\Jazz.Demo.DBConsole.pdb

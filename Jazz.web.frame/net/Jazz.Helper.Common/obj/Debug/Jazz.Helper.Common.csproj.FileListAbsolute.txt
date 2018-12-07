@@ -1,0 +1,14 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Jazz.Helper.Common.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Jazz.Helper.Common.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\obj\Debug\Jazz.Helper.Common.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\obj\Debug\Jazz.Helper.Common.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll

@@ -1,0 +1,11 @@
+C:\Users\wjc\documents\visual studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\WebFrameWork.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\WebFrameWork.pdb
+C:\Users\wjc\documents\visual studio 2013\Projects\WebFrameWork\WebFrameWork\obj\Release\WebFrameWork.dll
+C:\Users\wjc\documents\visual studio 2013\Projects\WebFrameWork\WebFrameWork\obj\Release\WebFrameWork.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\obj\Release\WebFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\EntityFramework.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\EntityFramework.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\WebFrameWork\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll

@@ -1,0 +1,5 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.JMS\bin\Debug\Jazz.Common.JMS.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.JMS\bin\Debug\Jazz.Common.JMS.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.JMS\obj\Debug\Jazz.Common.JMS.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.JMS\obj\Debug\Jazz.Common.JMS.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.JMS\obj\Debug\Jazz.Common.JMS.csprojResolveAssemblyReference.cache

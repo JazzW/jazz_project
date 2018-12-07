@@ -1,0 +1,7 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\bin\Debug\Jazz.Helper.Web.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\bin\Debug\Jazz.Helper.Web.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\obj\Debug\Jazz.Helper.Web.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\obj\Debug\Jazz.Helper.Web.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\obj\Debug\Jazz.Helper.Web.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Web\bin\Debug\Newtonsoft.Json.xml

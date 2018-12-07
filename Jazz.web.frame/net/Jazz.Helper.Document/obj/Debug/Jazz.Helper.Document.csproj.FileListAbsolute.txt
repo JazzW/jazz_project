@@ -1,0 +1,4 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Document\bin\Debug\Jazz.Helper.Document.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Document\bin\Debug\Jazz.Helper.Document.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Document\obj\Debug\Jazz.Helper.Document.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Document\obj\Debug\Jazz.Helper.Document.pdb

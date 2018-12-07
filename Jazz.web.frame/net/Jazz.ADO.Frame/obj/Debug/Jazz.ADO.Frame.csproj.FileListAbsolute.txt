@@ -1,0 +1,13 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\obj\Debug\Jazz.ADO.Frame.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.ADO.Frame.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.ADO.Frame.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Common.Enitiy.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Common.Web.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Helper.DataBase.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Common.Enitiy.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Common.Web.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Helper.DataBase.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Debug\Jazz.Common.Enum.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\obj\Debug\Jazz.ADO.Frame.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\obj\Debug\Jazz.ADO.Frame.pdb

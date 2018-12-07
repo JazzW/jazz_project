@@ -1,0 +1,5 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\bin\Release\Jazz.Helper.AForge.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\obj\Release\Jazz.Helper.AForge.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\obj\Release\Jazz.Helper.AForge.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\bin\Release\Jazz.Helper.AForge.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\obj\Release\Jazz.Helper.AForge.dll

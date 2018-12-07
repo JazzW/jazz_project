@@ -1,0 +1,13 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.ADO.Frame.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.ADO.Frame.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\obj\Release\Jazz.ADO.Frame.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\obj\Release\Jazz.ADO.Frame.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\obj\Release\Jazz.ADO.Frame.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Common.Enitiy.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Common.Web.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Helper.DataBase.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Common.Enitiy.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Common.Web.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Helper.DataBase.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADO.Frame\bin\Release\Jazz.Common.Enum.pdb

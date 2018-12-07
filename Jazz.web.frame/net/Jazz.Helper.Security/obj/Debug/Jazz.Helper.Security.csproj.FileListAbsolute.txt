@@ -1,0 +1,5 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Security\bin\Debug\Jazz.Helper.Security.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Security\bin\Debug\Jazz.Helper.Security.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Security\obj\Debug\Jazz.Helper.Security.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Security\obj\Debug\Jazz.Helper.Security.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.Security\obj\Debug\Jazz.Helper.Security.csprojResolveAssemblyReference.cache

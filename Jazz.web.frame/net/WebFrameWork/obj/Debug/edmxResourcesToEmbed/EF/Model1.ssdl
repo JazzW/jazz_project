@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HTDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="A01CNomralInfo">
+    <Key>
+      <PropertyRef Name="a01Id" />
+    </Key>
+    <Property Name="a01Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="a01Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="a01Email" Type="varchar" MaxLength="30" />
+    <Property Name="a01Pwd" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="a01Ip" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="a01Area" Type="nvarchar" MaxLength="30" />
+    <Property Name="a01Sex" Type="int" Nullable="false" />
+    <Property Name="a01Years" Type="datetime" />
+    <Property Name="a01Img" Type="image" />
+    <Property Name="a01Work" Type="nvarchar" MaxLength="30" />
+    <Property Name="a01Files" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <EntityContainer Name="HTDBModelStoreContainer">
+    <EntitySet Name="A01CNomralInfo" EntityType="Self.A01CNomralInfo" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

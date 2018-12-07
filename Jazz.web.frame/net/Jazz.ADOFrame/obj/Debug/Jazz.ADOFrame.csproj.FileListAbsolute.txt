@@ -1,0 +1,13 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.ADOFrame.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.ADOFrame.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.Common.Web.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.Helper.DataBase.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.Common.Web.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.Helper.DataBase.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\Jazz.Common.Enum.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\obj\Debug\Jazz.ADOFrame.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\obj\Debug\Jazz.ADOFrame.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\obj\Debug\Jazz.ADOFrame.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\MongoDB.Driver.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.ADOFrame\bin\Debug\MongoDB.Bson.dll

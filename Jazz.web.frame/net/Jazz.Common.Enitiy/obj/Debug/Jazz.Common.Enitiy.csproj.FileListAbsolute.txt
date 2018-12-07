@@ -1,0 +1,4 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\bin\Debug\Jazz.Common.Enitiy.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\bin\Debug\Jazz.Common.Enitiy.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\obj\Debug\Jazz.Common.Enitiy.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\obj\Debug\Jazz.Common.Enitiy.pdb

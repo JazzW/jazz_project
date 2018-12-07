@@ -1,0 +1,12 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\obj\Debug\Jazz.SOA.DBJMS.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.SOA.JMS.exe.config
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.SOA.JMS.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.SOA.JMS.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.Common.Web.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.Helper.DataBase.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.Common.Enum.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.Common.Web.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.Helper.DataBase.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\bin\Debug\Jazz.Common.Enum.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\obj\Debug\Jazz.SOA.JMS.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.SOA.JMS\obj\Debug\Jazz.SOA.JMS.pdb

@@ -1,0 +1,5 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\bin\Release\Jazz.Common.Enitiy.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\bin\Release\Jazz.Common.Enitiy.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\obj\Release\Jazz.Common.Enitiy.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\obj\Release\Jazz.Common.Enitiy.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Common.Enitiy\obj\Release\Jazz.Common.Enitiy.csprojResolveAssemblyReference.cache

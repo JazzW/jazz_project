@@ -1,0 +1,6 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.Demo\bin\Release\Jazz.EFframe.Demo.exe.config
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.Demo\bin\Release\Jazz.EFframe.Demo.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.Demo\bin\Release\Jazz.EFframe.Demo.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.Demo\obj\Release\Jazz.EFframe.Demo.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.Demo\obj\Release\Jazz.EFframe.Demo.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.Demo\obj\Release\Jazz.EFframe.Demo.csprojResolveAssemblyReference.cache

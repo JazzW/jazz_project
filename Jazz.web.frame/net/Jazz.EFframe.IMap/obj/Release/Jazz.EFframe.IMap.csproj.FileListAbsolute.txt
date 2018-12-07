@@ -1,0 +1,10 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\Jazz.EFframe.IMap.dll.config
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\Jazz.EFframe.IMap.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\Jazz.EFframe.IMap.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\EntityFramework.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\EntityFramework.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\obj\Release\Jazz.EFframe.IMap.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.EFframe.IMap\obj\Release\Jazz.EFframe.IMap.pdb

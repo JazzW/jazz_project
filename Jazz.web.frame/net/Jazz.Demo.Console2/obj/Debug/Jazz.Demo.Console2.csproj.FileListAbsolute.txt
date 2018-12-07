@@ -1,0 +1,8 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\bin\Debug\Jazz.Demo.Console2.exe.config
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\bin\Debug\Jazz.Demo.Console2.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\bin\Debug\Jazz.Demo.Console2.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\bin\Debug\Jazz.Common.JMS.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\bin\Debug\Jazz.Common.JMS.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\obj\Debug\Jazz.Demo.Console2.csprojResolveAssemblyReference.cache
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\obj\Debug\Jazz.Demo.Console2.exe
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Demo.Console2\obj\Debug\Jazz.Demo.Console2.pdb

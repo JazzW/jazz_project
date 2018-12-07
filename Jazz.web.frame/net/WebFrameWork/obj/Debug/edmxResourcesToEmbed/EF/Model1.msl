@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HTDBModelStoreContainer" CdmEntityContainer="HTDBEntities1">
+    <EntitySetMapping Name="A01CNomralInfo">
+      <EntityTypeMapping TypeName="HTDBModel.A01CNomralInfo">
+        <MappingFragment StoreEntitySet="A01CNomralInfo">
+          <ScalarProperty Name="a01Id" ColumnName="a01Id" />
+          <ScalarProperty Name="a01Name" ColumnName="a01Name" />
+          <ScalarProperty Name="a01Email" ColumnName="a01Email" />
+          <ScalarProperty Name="a01Pwd" ColumnName="a01Pwd" />
+          <ScalarProperty Name="a01Ip" ColumnName="a01Ip" />
+          <ScalarProperty Name="a01Area" ColumnName="a01Area" />
+          <ScalarProperty Name="a01Sex" ColumnName="a01Sex" />
+          <ScalarProperty Name="a01Years" ColumnName="a01Years" />
+          <ScalarProperty Name="a01Img" ColumnName="a01Img" />
+          <ScalarProperty Name="a01Work" ColumnName="a01Work" />
+          <ScalarProperty Name="a01Files" ColumnName="a01Files" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

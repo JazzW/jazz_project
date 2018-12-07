@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HTDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="A01CNomralInfo">
+    <Key>
+      <PropertyRef Name="a01Id" />
+    </Key>
+    <Property Name="a01Id" Type="Guid" Nullable="false" />
+    <Property Name="a01Name" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="a01Email" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <Property Name="a01Pwd" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="a01Ip" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="a01Area" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="a01Sex" Type="Int32" Nullable="false" />
+    <Property Name="a01Years" Type="DateTime" Precision="3" />
+    <Property Name="a01Img" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="a01Work" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="a01Files" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="HTDBEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="A01CNomralInfo" EntityType="Self.A01CNomralInfo" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,4 @@
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\bin\Debug\Jazz.Helper.AForge.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\bin\Debug\Jazz.Helper.AForge.pdb
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\obj\Debug\Jazz.Helper.AForge.dll
+C:\Users\wjc\Documents\Visual Studio 2013\Projects\WebFrameWork\Jazz.Helper.AForge\obj\Debug\Jazz.Helper.AForge.pdb
